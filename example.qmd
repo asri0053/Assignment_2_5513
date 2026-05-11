@@ -19,3 +19,18 @@ This file is used to show that I can create and render a basic Quarto document.
 2 + 2
 ```
 
+## Simple Plot
+
+The plot below shows a simple relationship between two variables.
+
+```{r}
+x <- 1:5
+y <- c(2, 4, 6, 8, 10)
+
+plot(x, y,
+     main = "Simple Plot",
+     xlab = "X values",
+     ylab = "Y values")
+
+```
+
