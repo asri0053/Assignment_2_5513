@@ -1,0 +1,21 @@
+---
+title: "Example Quarto file"
+author: "Aditi Srinivas"
+format: html
+editor: visual
+---
+
+# Introduction
+
+This is my simple example Quarto file for the assignment.
+
+## About this file
+
+This file is used to show that I can create and render a basic Quarto document.
+
+## Simple calculation
+
+```{r}
+2 + 2
+```
+
