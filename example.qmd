@@ -7,7 +7,7 @@ editor: visual
 
 # Introduction
 
-This document was updated on the main branch. This change is different from the change made on testbranch.
+This document includes updates from both the main branch and testbranch. I manually resolved the merge conflict by combining the changes into one final version.
 
 ## About this file
 
